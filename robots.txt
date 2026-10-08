@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-1zbl2c.balboacandyclub.com.br/sitemap.xml
